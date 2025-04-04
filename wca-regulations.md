@@ -10,10 +10,10 @@
 Please note that translations are not official versions, even though they are provided on the WCA website for convenience.
 If there is a difference between a translation and the (current official) English version, the English version must be used.
 
-### WCA Regulations and Guidelines
+### WCA Regulations
 
 The WCA Regulations contain the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.
-The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
+Rhe WCA Regulations were previous split into the WCA Regulations and the WCA Guidelines from the January 1st, 2013 release until the January 1st, 2025 release.
 
 ### Wording
 Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
@@ -24,24 +24,20 @@ Original source of the WCA Regulations: [www.worldcubeassociation.org/regulation
 WCA Regulations in [PDF format](link:pdf)
 
 ### Source
-Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/thewca/wca-regulations) and the discussion is public [on the WCA Forum](https://forum.worldcubeassociation.org/c/regulations).
+Development of the WCA Regulations is public [on GitHub](https://github.com/thewca/wca-regulations) and the discussion is public [on the WCA Forum](https://forum.worldcubeassociation.org/c/regulations).
 
 ### Contact
 For questions and feedback, please contact the [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
 
-### Numbering
-
-Guidelines are numbered in correspondence with related regulations. Note that multiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
-
 ### Labels
 
-To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
+To be more informative, certain Regulations are classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
 
 - <label>[ADDITION] Additional information to supplement the Regulations.
-- <label>[CLARIFICATION] Information to address any possible questions about the interpretation of the Regulations.
+- <label>[CLARIFICATION] Information to address possible questions about the interpretation of the Regulations.
 - <label>[EXPLANATION] Information that clarifies the intent of Regulations.
 - <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
-- <label>[REMINDER] Information that may be addressed by other Regulations/Guideline, but whose relevance is worth reiterating.
+- <label>[REMINDER] Information that may be addressed by other Regulations, but whose relevance is worth reiterating.
 - <label>[EXAMPLE] An example of how to apply a Regulation.
 
 
