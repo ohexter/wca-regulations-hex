@@ -29,6 +29,21 @@ Development of the WCA Regulations and Guidelines is public [on GitHub](https://
 ### Contact
 For questions and feedback, please contact the [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
 
+### Numbering
+
+Guidelines are numbered in correspondence with related regulations. Note that multiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
+
+### Labels
+
+To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
+
+- <label>[ADDITION] Additional information to supplement the Regulations.
+- <label>[CLARIFICATION] Information to address any possible questions about the interpretation of the Regulations.
+- <label>[EXPLANATION] Information that clarifies the intent of Regulations.
+- <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
+- <label>[REMINDER] Information that may be addressed by other Regulations/Guideline, but whose relevance is worth reiterating.
+- <label>[EXAMPLE] An example of how to apply a Regulation.
+
 
 ## <contents> [Contents](regulations:contents)
 
