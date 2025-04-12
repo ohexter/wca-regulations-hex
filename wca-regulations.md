@@ -106,7 +106,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2g3) Competitors in a group in progress must not communicate with other competitors in the group about the scrambled states of the group, unless all such competitors are not eligible for any further attempts in the group. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate. Exception: For 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, competitors that have finished their attempt may share and discuss the scramble sequence(s) with other competitors in the group who have either finished their attempt or declined their attempt.
         - 2g3a) For rounds where results are being entered live, the organization team may enforce that competitors are not permitted to view the results entered from their group until they have completed their attempts.
 - 2h) Competitors must be appropriately dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While inspecting or solving, competitors must not use electronics (e.g. cell phones, ear buds, additional lighting) apart from the Stackmat timer or stopwatch. Penalty: disqualification of the attempt (DNF). Any item which has any electronic component is considered electronic.
+- 2i) While inspecting or solving, competitors must not use electronics (e.g. cell phones, earbuds, additional lighting) apart from the Stackmat timer or stopwatch. Penalty: disqualification of the attempt (DNF). Any item which has any electronic component is considered electronic.
 - 2i+) [ADDITION] Although the competitor may pick up a stopwatch to view the current time (when they are not blindfolded), they must not start, stop, pause, or otherwise interact with the timekeeping of the stopwatch. Exception: The competitor may stop the stopwatch at the end of their attempt if the judge is not immediately available (see [Regulation A6a1](regulations:regulation:A6a1)).
 - 2i++) [ADDITION] The organization team may provide the competitor an unofficial stopwatch for viewing the elapsed time (started together with the main stopwatch), in which case the competitor is not permitted to touch the official stopwatch. Exception: See the exception in [Regulation 2i+](regulations:regulation:2i+).
 - 2i+++) [REMINDER] Bluetooth puzzles are considered electronic devices.
@@ -147,7 +147,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2n1) Disputes are only permitted during the competition (see [Regulation 9u](regulations:regulation:9u)), within 30 minutes of the disputed incident and before the start of any following rounds of the relevant event.
     - 2n2) The WCA Delegate must resolve the dispute before the start of the next round of the event.
     - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-    - 2n3+) [ADDITION] The competitor may escalate their dispute after the competition by following the process decribed in the [Disputes Motion](https://documents.worldcubeassociation.org/documents/motions/16.2025.1%20-%20Disputes.pdf).
+    - 2n3+) [ADDITION] The competitor may escalate their dispute after the competition by following the process described in the [Disputes Motion](https://documents.worldcubeassociation.org/documents/motions/16.2025.1%20-%20Disputes.pdf).
 - 2s) Competitors with circumstances (e.g. disability) that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organization team and WCA Delegate at least two weeks before the competition.
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
 - 2s++) [EXAMPLE] Competitors whose circumstances (e.g. religion) do not allow them to compete on a specific date or time may be allowed to compete at a different time at the discretion of the WCA Delegate. The WCA Delegate should consider the availability of competition resources when attending such requests. This includes the possibility to provisionally compete in subsequent round(s) before the previous round(s) is (are) completed.
@@ -302,7 +302,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 7f3) The organization team should modify Stackmat timers to be more robust against common incidents, by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
     - 7f4) Generation 5 Pro Timer must be used in 2-pad mode.
 - 7h) If competitors do not remain at the same station for all of their attempts in a round, the competition area must have one or more Competitor Waiting Areas. Exception: rounds with individually scheduled attempts.
-    - 7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait at to be called to a solving station.
+    - 7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait to be called to a solving station.
     - 7h2+) [ADDITION] Competitors in a Competitor Waiting Area who are waiting between attempts should not be able to see the puzzles of the competitors on stage.
 
 
@@ -381,7 +381,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9q+) [RECOMMENDATION] Events and rounds should have at least 2 competitors.
 - 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
 - 9t) If any change occurs to the results of a competitor after the competition has ended (e.g. score-taking mistake, retroactive penalty), such that the competitor should not have advanced to the next round (or was not allowed to take part in the round), all results of this competitor for all subsequent rounds must be removed (see [Regulation 9u](regulations:regulation:9u)).
-- 9t+) [EXPLANATION] Because of [9t1](regulations:regulation:9t1) and [9t2](regulations:regulation:9t2), rounds may look like they do not comply with [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3). However, making changes to comply to these rules would affect innocent competitors, which is why the results must stay the same.
+- 9t+) [EXPLANATION] Because of [9t1](regulations:regulation:9t1) and [9t2](regulations:regulation:9t2), rounds may look like they do not comply with [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3). However, making changes to comply with these rules would affect innocent competitors, which is why the results must stay the same.
 - 9t++) [ADDITION] If the change of results happens during the competition, this rule must also be applied. In that case, [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) and [9t3](regulations:regulation:9t3) should also be followed, at the discretion of the WCA Delegate.
     - 9t1) If this makes a round no longer compliant with [Regulation 9p1](regulations:regulation:9p1), results of other competitors must not be removed.
     - 9t2) If this makes a round no longer compliant with [Regulation 9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3), any subsequent round must not be removed.
@@ -389,7 +389,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9t3+) [EXAMPLE] Suppose competitor A gets a 10.00 average and competitor B gets a 10.05 average in the first round of an event, such that competitor A advances to the final round but not B. If a score-taking mistake is discovered, and competitor B actually got a 9.95 average (and should have proceeded instead of A), competitor A keeps their result for the final round.
 - 9u) A competition is considered to have ended if all the following requirements are met simultaneously:
 - 9u+) [ADDITION] For competitions with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions"), all the requirements must be met in every location to consider the competition as ended.
-    - 9u1) All the scheduled rounds in the WCA website are completed.
+    - 9u1) All the scheduled rounds on the WCA website are completed.
     - 9u2) The WCA Delegate has announced the end of the competition. If the WCA Delegate does not announce the end of the competition, either of the following takes the place of this announcement (whichever comes first):
     - 9u2+) [RECOMMENDATION] The WCA Delegate should announce the end of the competition (e.g. prior to the awards ceremony).
         - 9u2a) All the listed WCA Delegates permanently leave the venue.
